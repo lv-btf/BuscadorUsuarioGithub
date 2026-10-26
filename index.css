@@ -1,0 +1,10 @@
+.fila td{
+    border-radius: 7px;
+    border: 1px solid #b7b5bc;
+    padding: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+.fila:hover td {
+    background-color: #5050d2;
+}
